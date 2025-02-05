@@ -1,4 +1,26 @@
 /* =======================================
+   Стили шрифтов
+========================================= */
+
+@font-face {
+  font-family: 'TTLakes';
+  src: url('./fonts/TTLakes-Regular.woff') format('woff');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'TTLakes';
+  src: url('./fonts/TTLakes-Bold.woff') format('woff');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'TTLakes';
+  src: url('./fonts/TTLakes-Medium.woff') format('woff');
+  font-weight: 500;
+}
+
+/* =======================================
      Общие стили
   ========================================= */
 
